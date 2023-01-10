@@ -4,7 +4,7 @@ _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 (function() {
 var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
-hs.src = ('//cdn.statically.io/gh/syairsiska/jitu/main/js15_as.js');
+hs.src = ('//rawcdn.githack.com/syairsiska/jitu/89857d7ba2f95bd3558384ddbc5478e1a1099b5d/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();
 
